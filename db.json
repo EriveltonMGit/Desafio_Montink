@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camiseta Premium Comfort Fit",
+      "description": "Camiseta de algodão premium com corte moderno e confortável",
+      "price": 89.9,
+      "originalPrice": 119.9,
+      "discount": 25,
+      "installments": 3,
+      "category": "Camisetas",
+      "rating": 4.5,
+      "reviewCount": 127,
+      "images": [
+        {
+          "url": "https://img.lojasrenner.com.br/item/542377769/original/3.jpg",
+          "alt": "Camiseta Premium - Modelo masculino vestindo a camiseta preta",
+          "type": "image"
+        },
+        {
+          "url": "https://img.lojasrenner.com.br/item/542377769/original/4.jpg",
+          "alt": "Camiseta Premium - Vista frontal da camiseta branca em mesa",
+          "type": "image"
+        },
+        {
+          "url": "https://img.lojasrenner.com.br/item/542377769/original/5.jpg",
+          "alt": "Camiseta Premium - Modelo feminino vestindo a camiseta azul marinho",
+          "type": "image"
+        },
+        {
+          "url": "https://www.youtube.com/embed/jxi9rj3dgUQ",
+          "alt": "Vídeo de apresentação da Coleção Premium Comfort Fit",
+          "type": "video"
+        }
+      ],
+      "colors": [
+        {
+          "id": "color-1",
+          "name": "Preto",
+          "value": "black",
+          "code": "#000000",
+          "available": true
+        },
+        {
+          "id": "color-2",
+          "name": "Branco",
+          "value": "white",
+          "code": "#ffffff",
+          "available": true
+        },
+        {
+          "id": "color-3",
+          "name": "Azul Marinho",
+          "value": "navy",
+          "code": "#000080",
+          "available": true
+        },
+        {
+          "id": "color-4",
+          "name": "Vermelho",
+          "value": "red",
+          "code": "#ff0000",
+          "available": false
+        },
+        {
+          "id": "color-5",
+          "name": "Verde",
+          "value": "green",
+          "code": "#008000",
+          "available": true
+        }
+      ],
+      "sizes": [
+        {
+          "id": "size-1",
+          "name": "P",
+          "value": "small",
+          "available": true
+        },
+        {
+          "id": "size-2",
+          "name": "M",
+          "value": "medium",
+          "available": true
+        },
+        {
+          "id": "size-3",
+          "name": "G",
+          "value": "large",
+          "available": true
+        },
+        {
+          "id": "size-4",
+          "name": "GG",
+          "value": "xlarge",
+          "available": false
+        }
+      ]
+    }
+  ]
+}
