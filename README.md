@@ -2,6 +2,8 @@
 
 Este é um projeto front-end simples que demonstra uma página de detalhes de produto para um e-commerce, construído com Next.js e TypeScript. Ele exibe informações do produto, permite selecionar variantes (cores e tamanhos) e calcular o frete.
 
+[👉 Acesse o projeto aqui](https://desafio-montink.netlify.app)
+
 ## Tecnologias Utilizadas
 
 * **Next.js:** Framework React para desenvolvimento web.
@@ -13,6 +15,8 @@ Este é um projeto front-end simples que demonstra uma página de detalhes de pr
 * **Sonner:** Para notificações (toasts).
 * Integração com API para calcular frete (ViaCEP).
 * Gerenciamento de estado com React Context API.
+Integração com API para calcular frete (ViaCEP).
+* Gerenciamento de estado com React Context API: Utilizada para compartilhar dados importantes entre componentes sem a necessidade de passar props manualmente em múltiplos níveis. Ideal para gerenciar o estado do produto selecionado, variações, informações do carrinho ou resultados do cálculo de frete, centralizando o estado e evitando o "prop drilling".
 
 ## Como Rodar o Projeto
 
